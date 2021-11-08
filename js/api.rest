@@ -1,0 +1,24 @@
+GET https://rickandmortyapi.com/api/character
+
+###
+
+
+GET https://rickandmortyapi.com/api/character/4,18
+
+###
+PUT 
+
+###
+PATCH 
+
+###
+DELETE 
+
+###
+POST 
+
+
+
+
+
+
